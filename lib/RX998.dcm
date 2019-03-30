@@ -1,0 +1,49 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +12V
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP BAV99
+D Dual schottky diode
+K diode
+$ENDCMP
+#
+$CMP BF998
+D Transistor N-MOSFETwith substrate diode (general)
+K NMOS n-mos n-mosfet transistor
+$ENDCMP
+#
+$CMP Conn_01x30
+D Generic connector, single row, 01x30
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_Coaxial
+D coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)
+K BNC SMA SMB SMC coaxial connector CINCH RCA
+$ENDCMP
+#
+$CMP Crystal_GND23
+D Four pin crystal (GND on pins 2 and 3), e.g. in SMD package
+K quartz ceramic resonator oscillator
+$ENDCMP
+#
+$CMP Q_PNP_BEC
+D Transistor PNP (general)
+K pnp transistor
+$ENDCMP
+#
+$CMP Transformer
+D Transformer, single primary, single secondary
+K transformer coil magnet
+$ENDCMP
+#
+$CMP Transformer_1P_1S
+D Transformer, single primary, single secondary
+K transformer coil magnet
+$ENDCMP
+#
+#End Doc Library
